@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventarioToWooCommerce", "InventarioToWooCommerce\InventarioToWooCommerce.csproj", "{646ADF79-3CA7-4469-888B-B9340FEDE7B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{646ADF79-3CA7-4469-888B-B9340FEDE7B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646ADF79-3CA7-4469-888B-B9340FEDE7B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646ADF79-3CA7-4469-888B-B9340FEDE7B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646ADF79-3CA7-4469-888B-B9340FEDE7B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BB0175B-86AC-4F3A-B9E3-6E2B59C60FF0}
+	EndGlobalSection
+EndGlobal

@@ -9,9 +9,11 @@ namespace InventarioToWooCommerce
     {
         static void Main(string[] args)
         {
+            //Make Changes for other page
             ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
 
             string fileDirectory = $"{Path.GetFullPath(@"..\..\..\..\")}Inventario_MBD.xlsx";
+
 
             using (var package = new ExcelPackage(new FileInfo(fileDirectory)))
             {
